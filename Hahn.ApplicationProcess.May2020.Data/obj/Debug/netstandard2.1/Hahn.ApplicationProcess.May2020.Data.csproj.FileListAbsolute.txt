@@ -1,0 +1,12 @@
+/Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Data/bin/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Data.deps.json
+/Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Data/bin/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Data.dll
+/Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Data/bin/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Data.pdb
+/Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Data/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Data.csprojAssemblyReference.cache
+/Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Data/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Data.AssemblyInfoInputs.cache
+/Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Data/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Data.AssemblyInfo.cs
+/Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Data/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Data.csproj.CoreCompileInputs.cache
+/Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Data/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Data.dll
+/Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Data/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Data.pdb
+/Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Data/bin/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.dll
+/Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Data/bin/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.pdb
+/Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Data/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Data.csproj.CopyComplete

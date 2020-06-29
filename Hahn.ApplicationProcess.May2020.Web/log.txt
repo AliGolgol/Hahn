@@ -1,0 +1,2 @@
+2020-06-29 12:49:31.808 +04:30 [INF] Starting web host
+2020-06-29 12:50:07.405 +04:30 [INF] Starting web host

@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Domain/Hahn.ApplicationProcess.May2020.Domain.csproj": {}
+  },
+  "projects": {
+    "/Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Domain/Hahn.ApplicationProcess.May2020.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Domain/Hahn.ApplicationProcess.May2020.Domain.csproj",
+        "projectName": "Hahn.ApplicationProcess.May2020.Domain",
+        "projectPath": "/Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Domain/Hahn.ApplicationProcess.May2020.Domain.csproj",
+        "packagesPath": "/Users/aligolgol/.nuget/packages/",
+        "outputPath": "/Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/aligolgol/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

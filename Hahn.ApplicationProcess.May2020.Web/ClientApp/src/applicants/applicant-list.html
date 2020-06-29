@@ -1,0 +1,39 @@
+<template>
+  <require from="../styles/applicants.css"></require>
+  <table class="table">
+    <thead class="thead-light">
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Name</th>
+      <th scope="col">Family</th>
+      <th scope="col">Age</th>
+      <th scope="col">Email</th>
+      <th scope="col"></th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr repeat.for="applicant of applicants"
+        class="contacts-item ${applicant.id === $parent.selectedId ? 'active' : ''}">
+      <th scope="row"></th>
+      <td>${applicant.name}</td>
+      <td>${applicant.familyName}</td>
+      <td>${applicant.age}</td>
+      <td>${applicant.eMailAddress}</td>
+      <td>
+        <a class="btn btn-warning" route-href="route: ApplicantUpdate; params.bind: {id:applicant.id}"
+           click.delegate="$parent.select(applicant)">
+          <small>Edit</small>
+        </a> 
+        <a class="btn btn-info" route-href="route: ApplicantDetail; params.bind: {id:applicant.id}"
+           click.delegate="$parent.select(applicant)">
+          <small>Detail</small>
+        </a>
+        <a click.delegate="$parent.remove(applicant)" href="#" class="btn btn-danger">
+          <small>Remove</small>
+        </a>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+  <a route-href="route: home;" class="applicants-return"><i class="fas fa-chevron-left"></i> Home</a>
+</template>
