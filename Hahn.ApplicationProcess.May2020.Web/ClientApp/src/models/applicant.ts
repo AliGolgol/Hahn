@@ -9,6 +9,3 @@ export interface Applicant {
   age: number;
   hired: boolean;
 }
-// ValidationRules
-//   .ensure('emailAddress').required()
-//   .on(Applicant);

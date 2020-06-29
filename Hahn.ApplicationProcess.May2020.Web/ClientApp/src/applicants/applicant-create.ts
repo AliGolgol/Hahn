@@ -18,6 +18,8 @@ export class ApplicantCreate {
   applicant: Applicant;
   router: Router;
   controller;
+  isValidate: boolean = false;
+  valMsg;
 
   constructor(ValidationControllerFactory, ea: EventAggregator, applicantService: ApplicantService, router: Router) {
     this._applicantService = applicantService;
@@ -32,8 +34,12 @@ export class ApplicantCreate {
     this._applicantService.createApplcant(this.applicant)
       .then(applicant => {
         this._ea.publish(new ApplicantCreated(applicant));
-      }).catch(err => console.log(err));
-    this.router.navigateToRoute('applicants');
+        this.router.navigateToRoute('applicants');
+      }).catch(err => {
+        this.isValidate = true;
+        this.valMsg=err.response.split(',')
+        
+      });
 
   }
 

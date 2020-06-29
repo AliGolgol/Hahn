@@ -17,7 +17,7 @@ export class App {
       moduleId: PLATFORM.moduleName('./applicants/applicant-list'),
       title: 'Applicant List'
     }, {
-        route: 'applicant-update/:d',
+        route: 'applicant-update/:id',
         name: 'ApplicantUpdate',
         moduleId: PLATFORM.moduleName('./applicants/applicant-update')
       }, {

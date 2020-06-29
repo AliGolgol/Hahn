@@ -6,10 +6,10 @@ import { Applicant } from '../models/applicant';
 
 @inject(HttpClient)
 export class ApplicantService {
-  private http:HttpClient;
+  private http: HttpClient;
   applicants = [];
 
-  constructor(http:HttpClient) {
+  constructor(http: HttpClient) {
     http.configure(x => x.withBaseUrl(api.dev + '/applicant/'));
     this.http = http;
   }
@@ -53,7 +53,7 @@ export class ApplicantService {
   deleteApplicant(id) {
     let promise = new Promise((resolve, reject) => {
       this.http
-        .delete(api.dev+'/applicant/'+id)
+        .delete(api.dev + '/applicant/' + id)
         .then(response => {
           let result = JSON.parse(response.response);
           resolve(result);
@@ -66,11 +66,13 @@ export class ApplicantService {
   updateApplicant(id, applicant) {
     let promise = new Promise((resolve, reject) => {
       this.http
-        .put(api.dev+'/applicant/'+id, applicant)
+        .put(api.dev + '/applicant/' + id, applicant)
         .then(response => {
           let applicant = JSON.parse(response.response);
           resolve(applicant);
-        }).catch(err => reject(err));
+        }).catch(err =>
+          reject(err)
+        );
     });
     return promise;
   }

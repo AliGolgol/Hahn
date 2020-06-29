@@ -16,153 +16,18 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f33d3572-27a0-4944-8f7b-8f252b736673" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Hahn.ApplicatonProcess.Application/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/ApplicationContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/DependencyInjection.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/Hahn.ApplicationProcess.May2020.Data.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/Repository/ApplicantRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/bin/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Data.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/bin/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Data.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/bin/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Data.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/bin/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/bin/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/obj/Debug/netstandard2.1/.NETStandard,Version=v2.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Data.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Data.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Data.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Data.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Data.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Data.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Data.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Data.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Data.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/obj/Hahn.ApplicationProcess.May2020.Data.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/obj/Hahn.ApplicationProcess.May2020.Data.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/obj/Hahn.ApplicationProcess.May2020.Data.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/Common/Entities/Applicant.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/Common/Entities/ApplicantValidator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/DependencyInjection.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/Hahn.ApplicationProcess.May2020.Domain.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/Interfaces/IApplicantRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/Models/Result.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/Services/ApplicantService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/Services/IApplicantService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/bin/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/bin/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/bin/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/obj/Debug/netstandard2.1/.NETStandard,Version=v2.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/obj/Hahn.ApplicationProcess.May2020.Domain.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/obj/Hahn.ApplicationProcess.May2020.Domain.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/obj/Hahn.ApplicationProcess.May2020.Domain.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-list.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/styles/applicants.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/Common/Swagger/ApplicantModelExample.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/Controllers/ApplicantController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/Hahn.ApplicationProcess.May2020.Web.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/Infrastructure/Countries.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/Startup.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/FluentValidation.DependencyInjectionExtensions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/FluentValidation.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Data.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Data.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Domain.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Domain.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Web.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Web.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Web.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Web.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Web.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.AzureAD.UI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.InMemory.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Scrutor.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Annotations.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Filters.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Web.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Web.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Web.RazorTargetAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Web.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Web.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Web.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Web.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Web.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Web.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/Debug/netcoreapp3.1/staticwebassets/Hahn.ApplicationProcess.May2020.Web.StaticWebAssets.Manifest.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/Debug/netcoreapp3.1/staticwebassets/Hahn.ApplicationProcess.May2020.Web.StaticWebAssets.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/Hahn.ApplicationProcess.May2020.Web.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hahn.ApplicatonProcess.Application.sln" afterDir="false" />
+    <list default="true" id="f33d3572-27a0-4944-8f7b-8f252b736673" name="Default Changelist" comment="Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Hahn.ApplicatonProcess.Application/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Hahn.ApplicatonProcess.Application/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/app.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-create.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-create.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-create.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-detail.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-detail.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-update.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-update.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-update.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-update.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/models/applicant.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/models/applicant.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/services/services.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/services/services.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -361,8 +226,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593110805014</updated>
-      <workItem from="1593110815404" duration="67615000" />
+      <workItem from="1593110815404" duration="69078000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <created>1593422775257</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593422775257</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -395,6 +268,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state width="472" height="464" key="DebuggerActiveHint" timestamp="1593326482880">

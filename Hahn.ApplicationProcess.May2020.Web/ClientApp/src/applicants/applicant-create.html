@@ -71,7 +71,12 @@
       <button type="text" class="btn btn-info" click.delegate="create()">Create</button>
       <button type="reset" class="btn btn-info" click.delegate="reset()">Reset</button>
     </div>
+    <small if.bind="isValidate" style="color:red;">
+      ${valMsg}
+    </small>
+
     <hr />
     <a route-href="route: home;" class="contacts-return"><i class="fas fa-chevron-left"></i> Home</a>
+
   </form>
 </template>

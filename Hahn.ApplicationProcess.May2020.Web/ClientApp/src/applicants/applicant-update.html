@@ -35,7 +35,9 @@
         <label for="age">Age</label>
         <input type="number" class="form-control" id="age" aria-describedby="ageHelp" placeholder="Enter age" value.bind="activeApplicant.age">
       </div>
-
+      <small if.bind="isValidate" style="color:red;">
+        ${valMsg}
+      </small>
       <div class="form-group">
         <button type="text" class="contacts-save" click.delegate="update()">Update</button>
         <button type="reset" class="contacts-cancel"  click.delegate="reset()">Reset</button>

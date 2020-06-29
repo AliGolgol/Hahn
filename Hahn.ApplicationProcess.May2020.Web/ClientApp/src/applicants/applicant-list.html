@@ -21,7 +21,7 @@
       <td>${applicant.eMailAddress}</td>
       <td>
         <a class="btn btn-warning" route-href="route: ApplicantUpdate; params.bind: {id:applicant.id}"
-           click.delegate="$parent.select(applicant)">
+           click.delegate="select(applicant)">
           <small>Edit</small>
         </a> 
         <a class="btn btn-info" route-href="route: ApplicantDetail; params.bind: {id:applicant.id}"

@@ -3,8 +3,38 @@
     <h2>Applicant</h2>
     <form role="form">
       <div class="contacts-form-item">
-        <label>Name
-          <input readonly type="text"  value.bind="activeApplicant.name">
+        <label>Name :
+          <label readonly type="text">${activeApplicant.name}</label>
+        </label>
+      </div>
+      <div class="contacts-form-item">
+        <label>Family Name :
+          <label readonly type="text">${activeApplicant.familyName}</label>
+        </label>
+      </div>
+      <div class="contacts-form-item">
+        <label>Address :
+          <label readonly type="text">${activeApplicant.address}</label>
+        </label>
+      </div>
+      <div class="contacts-form-item">
+        <label>Country of Origin :
+          <label readonly type="text">${activeApplicant.countryOfOrigin}</label>
+        </label>
+      </div>
+      <div class="contacts-form-item">
+        <label>Email :
+          <label readonly type="text">${activeApplicant.eMailAddress}</label>
+        </label>
+      </div>
+       <div class="contacts-form-item">
+        <label>Age :
+          <label  type="text">${activeApplicant.age}</label>
+        </label>
+      </div>
+      <div class="contacts-form-item">
+        <label>Hired :
+          <input readonly type="checkbox" model.bind="activeApplicant" checked.bind="hired">
         </label>
       </div>
 
@@ -13,6 +43,3 @@
 
   <a route-href="route: applicants;" class="contacts-return"><i class="fas fa-chevron-left"></i> Back to List</a>
 </template>
-      
-    
-      
