@@ -55,8 +55,8 @@ export class ApplicantService {
       this.http
         .delete(api.dev + '/applicant/' + id)
         .then(response => {
-          let result = JSON.parse(response.response);
-          resolve(result);
+          // let result = JSON.parse(response.response);
+          // resolve(result);
         })
         .catch(err => reject(err));
     });

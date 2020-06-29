@@ -18,15 +18,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f33d3572-27a0-4944-8f7b-8f252b736673" name="Default Changelist" comment="Commit">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Hahn.ApplicatonProcess.Application/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Hahn.ApplicatonProcess.Application/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/app.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-create.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-create.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-create.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-create.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-detail.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-detail.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-update.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-update.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-update.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-update.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/models/applicant.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/models/applicant.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-list.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-list.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/services/services.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/services/services.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -226,7 +218,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593110805014</updated>
-      <workItem from="1593110815404" duration="69078000" />
+      <workItem from="1593110815404" duration="70094000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1593422775257</created>
@@ -235,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593422775257</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit">
+      <created>1593429162949</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593429162949</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

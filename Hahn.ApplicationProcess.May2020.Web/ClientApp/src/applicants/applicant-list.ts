@@ -1,18 +1,18 @@
-import {ApplicantViewed, ApplicantUpdated, ApplicantDeleted, ApplicantCreated} from '../common/messages'
-import {ApplicantService} from "../services/services";
+import { ApplicantViewed, ApplicantUpdated, ApplicantDeleted, ApplicantCreated } from '../common/messages'
+import { ApplicantService } from "../services/services";
 
-import {EventAggregator} from 'aurelia-event-aggregator'
-import {inject} from 'aurelia-framework'
+import { EventAggregator } from 'aurelia-event-aggregator'
+import { inject } from 'aurelia-framework'
 
 @inject(EventAggregator, ApplicantService)
 export class ApplicantList {
   private _applicantService: ApplicantService;
-  public message='Apllicant list';
-  ea : any;
-  applicants : [] | any;
-  selectedId : number;
+  public message = 'Apllicant list';
+  ea: any;
+  applicants: [] | any;
+  selectedId: number;
 
-  constructor(ea: EventAggregator, ApplicantService: ApplicantService){
+  constructor(ea: EventAggregator, ApplicantService: ApplicantService) {
     this.ea = ea;
     this.applicants = [];
     this._applicantService = ApplicantService;
@@ -29,7 +29,7 @@ export class ApplicantList {
       let deletedApplicant = msg.Applicant;
       this.applicants = this.applicants.filter(Applicant => Applicant !== deletedApplicant);
     });
-    
+
     ea.subscribe(ApplicantCreated, msg => {
       let Applicant = msg.Applicant;
       this.applicants.push(Applicant);
@@ -48,11 +48,12 @@ export class ApplicantList {
   }
 
   remove(applicant) {
-    if(confirm('Are you sure that you want to delete this Applicant?')) {
+    if (confirm('Are you sure that you want to delete this Applicant?')) {
       this._applicantService
         .deleteApplicant(applicant.id)
         .then(reponse => {
           this.ea.publish(new ApplicantDeleted(applicant))
+          window.history.back();
         })
         .catch(err => console.log(err));
     }
