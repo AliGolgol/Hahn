@@ -109,3 +109,13 @@
 /Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Serilog.Sinks.Console.dll
 /Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Serilog.Sinks.Debug.dll
 /Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Serilog.Sinks.File.dll
+/Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Aurelia.DotNet.dll
+/Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.NodeServices.dll
+/Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.SpaServices.dll
+/Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.SpaServices.Extensions.dll
+/Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Configuration.dll
+/Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Console.dll
+/Users/aligolgol/Documents/Projects/Hahn/Hahn.ApplicatonProcess.Application/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.ConfigurationExtensions.dll

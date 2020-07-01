@@ -1,6 +1,7 @@
 using System;
 using System.IO;
 using System.Reflection;
+using Aurelia.DotNet;
 using Hahn.ApplicationProcess.May2020.Data;
 using Hahn.ApplicationProcess.May2020.Domain;
 using Hahn.ApplicationProcess.May2020.Domain.Common.Entities;
@@ -8,6 +9,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.AzureAD.UI;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -34,7 +36,12 @@ namespace Hahn.ApplicationProcess.May2020.Web
                 .AddAzureADBearer(options => Configuration.Bind("AzureAd", options));
             services.AddControllers();
             services.AddMvc().AddNewtonsoftJson();
-            
+
+            services.AddMvcCore().SetCompatibilityVersion(CompatibilityVersion.Latest);
+            services.AddSpaStaticFiles(configuration =>
+            {
+                configuration.RootPath = "ClientApp/dist";
+            });
             services.AddDomain();
             services.AddData(Configuration);
             services.AddSwaggerExamplesFromAssemblyOf<Applicant>();
@@ -89,6 +96,15 @@ namespace Hahn.ApplicationProcess.May2020.Web
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "Hahn API V1");
             });
             
+            app.UseSpa(spa =>
+            {
+                spa.Options.SourcePath = "ClientApp";
+
+                if (env.IsDevelopment())
+                {
+                    spa.UseAureliaCliServer();
+                }
+            });
         }
     }
 }

@@ -17,9 +17,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f33d3572-27a0-4944-8f7b-8f252b736673" name="Default Changelist" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Hahn.ApplicatonProcess.Application/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Hahn.ApplicatonProcess.Application/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-list.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/applicants/applicant-list.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/services/services.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/services/services.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/bin/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/bin/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/bin/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/bin/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Data.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Data.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/bin/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/bin/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/bin/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/bin/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/Hahn.ApplicationProcess.May2020.Web.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/Hahn.ApplicationProcess.May2020.Web.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Web.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Web.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Web.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Web.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/Hahn.ApplicationProcess.May2020.Web.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/Hahn.ApplicationProcess.May2020.Web.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,40 +55,46 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/9EE8EE86-E367-481B-BF0E-11BEFE86882F/147/ExecutionContext.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/Models/Result.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/9EE8EE86-E367-481B-BF0E-11BEFE86882F/167/TaskContinuation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/Interfaces/IApplicantRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/Common/Entities/Applicant.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/Services/ApplicantService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/Services/IApplicantService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C072ADA3-420F-4E08-8493-043C3240EB59/11/ActionResultOfT.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/Common/Entities/ApplicantValidator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/9EE8EE86-E367-481B-BF0E-11BEFE86882F/163/Task.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4F8E1801-E5B8-43CC-865C-20A79466F400/d5/59972f5d/ServiceProviderValidatorFactory.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/DependencyInjection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/9EE8EE86-E367-481B-BF0E-11BEFE86882F/22D/AsyncValueTaskMethodBuilder.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/Controllers/ApplicantController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/Repository/ApplicantRepository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/DependencyInjection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/Common/Swagger/ApplicantModelExample.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C072ADA3-420F-4E08-8493-043C3240EB59/FE/ControllerActionInvoker.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/242AC7ED-2EAA-41F6-B02B-802477E1952E/73/611eaa1c/ValidatorFactoryBase.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C072ADA3-420F-4E08-8493-043C3240EB59/11C/ResourceInvoker.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4F8E1801-E5B8-43CC-865C-20A79466F400/0a/f439aba0/FluentValidationModelValidator.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/ApplicationContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/CA8F4132-AB1B-4A92-B464-BEA151F4F2F3/13/EndpointMiddleware.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C072ADA3-420F-4E08-8493-043C3240EB59/BB/ValidationVisitor.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0ED64369-B9E5-46BD-901E-20FAF89A4945/3/AuthorizationMiddleware.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Program.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Program.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4F8E1801-E5B8-43CC-865C-20A79466F400/37/fb38eff5/FluentValidationVisitor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C072ADA3-420F-4E08-8493-043C3240EB59/A1/ParameterBinder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/9EE8EE86-E367-481B-BF0E-11BEFE86882F/3A4/List.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C072ADA3-420F-4E08-8493-043C3240EB59/151/ControllerBinderDelegateProvider.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/A23E70F6-03E3-4C94-80B8-7ACD180A736C/4/DeveloperExceptionPageMiddleware.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2E939E8C-234E-40D8-9B8A-366812B06A56/86/HttpProtocol.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Program.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/9764A487-CD89-48B4-92F1-D4A7FF00F1DE/8/ServiceProvider.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6362EB52-F925-42CB-9D68-88BC441018C6/b2/f6e972c2/HttpStatusCode.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Program.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/A2402E28-9992-4D68-AB59-24BBB3DAAC2C/B/ConfigureServicesBuilder.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C072ADA3-420F-4E08-8493-043C3240EB59/F3/ActionMethodExecutor.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/DomainLog.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0B4A2F7D-2E7E-466F-B4F1-8DE6BAA3544E/9/CorsMiddleware.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/A2402E28-9992-4D68-AB59-24BBB3DAAC2C/3/GenericWebHostBuilder.cs" root0="SKIP_HIGHLIGHTING" />
@@ -79,28 +102,6 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/12DF26A7-26FC-4A30-885C-14BE59750AA4/3/HostBuilder.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/Infrastructure/Countries.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/9EE8EE86-E367-481B-BF0E-11BEFE86882F/22A/AsyncMethodBuilder.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/9EE8EE86-E367-481B-BF0E-11BEFE86882F/147/ExecutionContext.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/9EE8EE86-E367-481B-BF0E-11BEFE86882F/167/TaskContinuation.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/Interfaces/IApplicantRepository.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/Common/Entities/Applicant.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/Common/Entities/ApplicantValidator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/9EE8EE86-E367-481B-BF0E-11BEFE86882F/163/Task.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4F8E1801-E5B8-43CC-865C-20A79466F400/d5/59972f5d/ServiceProviderValidatorFactory.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/Repository/ApplicantRepository.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/Common/Swagger/ApplicantModelExample.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/242AC7ED-2EAA-41F6-B02B-802477E1952E/73/611eaa1c/ValidatorFactoryBase.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4F8E1801-E5B8-43CC-865C-20A79466F400/0a/f439aba0/FluentValidationModelValidator.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C072ADA3-420F-4E08-8493-043C3240EB59/BB/ValidationVisitor.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Program.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4F8E1801-E5B8-43CC-865C-20A79466F400/37/fb38eff5/FluentValidationVisitor.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Program.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C072ADA3-420F-4E08-8493-043C3240EB59/A1/ParameterBinder.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Program.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/9EE8EE86-E367-481B-BF0E-11BEFE86882F/3A4/List.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C072ADA3-420F-4E08-8493-043C3240EB59/151/ControllerBinderDelegateProvider.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Program.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Program.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -146,12 +147,12 @@
         <option value="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/Common/Entities/Applicant.cs" />
         <option value="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/Controllers/ApplicantController.cs" />
         <option value="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/Program.cs" />
-        <option value="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/Startup.cs" />
         <option value="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/DomainLog.cs" />
         <option value="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/DependencyInjection.cs" />
         <option value="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/log.txt" />
         <option value="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/Services/ApplicantService.cs" />
         <option value="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/readme.md" />
+        <option value="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/Startup.cs" />
       </list>
     </option>
   </component>
@@ -207,6 +208,25 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="" />
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.Dockerfile" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -218,7 +238,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593110805014</updated>
-      <workItem from="1593110815404" duration="70094000" />
+      <workItem from="1593110815404" duration="71105000" />
+      <workItem from="1593592420210" duration="1356000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1593422775257</created>
@@ -234,13 +255,20 @@
       <option name="project" value="LOCAL" />
       <updated>1593429162949</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit">
+      <created>1593430414368</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593430414368</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -264,6 +292,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
@@ -271,90 +300,94 @@
     <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="23" width="628" height="877" key="#Dockerfile" timestamp="1593592480769">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="0" y="23" width="628" height="877" key="#Dockerfile/0.23.1440.877@0.23.1440.877" timestamp="1593592480769" />
     <state width="472" height="464" key="DebuggerActiveHint" timestamp="1593326482880">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="472" height="464" key="DebuggerActiveHint/0.23.1440.877@0.23.1440.877" timestamp="1593326482880" />
-    <state width="1385" height="292" key="GridCell.Tab.0.bottom" timestamp="1593422482072">
+    <state width="1398" height="260" key="GridCell.Tab.0.bottom" timestamp="1593596427464">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1385" height="292" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1593422482072" />
-    <state width="1385" height="292" key="GridCell.Tab.0.center" timestamp="1593422482072">
+    <state width="1398" height="260" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1593596427464" />
+    <state width="1398" height="260" key="GridCell.Tab.0.center" timestamp="1593596427463">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1385" height="292" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1593422482072" />
-    <state width="1385" height="292" key="GridCell.Tab.0.left" timestamp="1593422482071">
+    <state width="1398" height="260" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1593596427463" />
+    <state width="1398" height="260" key="GridCell.Tab.0.left" timestamp="1593596427463">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1385" height="292" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1593422482071" />
-    <state width="1385" height="292" key="GridCell.Tab.0.right" timestamp="1593422482072">
+    <state width="1398" height="260" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1593596427463" />
+    <state width="1398" height="260" key="GridCell.Tab.0.right" timestamp="1593596427464">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1385" height="292" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1593422482072" />
-    <state width="1385" height="292" key="GridCell.Tab.1.bottom" timestamp="1593422482074">
+    <state width="1398" height="260" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1593596427464" />
+    <state width="1385" height="292" key="GridCell.Tab.1.bottom" timestamp="1593463516104">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1385" height="292" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1593422482074" />
-    <state width="1385" height="292" key="GridCell.Tab.1.center" timestamp="1593422482073">
+    <state width="1385" height="292" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1593463516104" />
+    <state width="1385" height="292" key="GridCell.Tab.1.center" timestamp="1593463516103">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1385" height="292" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1593422482073" />
-    <state width="1385" height="292" key="GridCell.Tab.1.left" timestamp="1593422482073">
+    <state width="1385" height="292" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1593463516103" />
+    <state width="1385" height="292" key="GridCell.Tab.1.left" timestamp="1593463516103">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1385" height="292" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1593422482073" />
-    <state width="1385" height="292" key="GridCell.Tab.1.right" timestamp="1593422482074">
+    <state width="1385" height="292" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1593463516103" />
+    <state width="1385" height="292" key="GridCell.Tab.1.right" timestamp="1593463516104">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1385" height="292" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1593422482074" />
-    <state width="1385" height="292" key="GridCell.Tab.2.bottom" timestamp="1593422482075">
+    <state width="1385" height="292" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1593463516104" />
+    <state width="1385" height="292" key="GridCell.Tab.2.bottom" timestamp="1593463516105">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1385" height="292" key="GridCell.Tab.2.bottom/0.23.1440.877@0.23.1440.877" timestamp="1593422482075" />
-    <state width="1385" height="292" key="GridCell.Tab.2.center" timestamp="1593422482074">
+    <state width="1385" height="292" key="GridCell.Tab.2.bottom/0.23.1440.877@0.23.1440.877" timestamp="1593463516105" />
+    <state width="1385" height="292" key="GridCell.Tab.2.center" timestamp="1593463516105">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1385" height="292" key="GridCell.Tab.2.center/0.23.1440.877@0.23.1440.877" timestamp="1593422482074" />
-    <state width="1385" height="292" key="GridCell.Tab.2.left" timestamp="1593422482074">
+    <state width="1385" height="292" key="GridCell.Tab.2.center/0.23.1440.877@0.23.1440.877" timestamp="1593463516105" />
+    <state width="1385" height="292" key="GridCell.Tab.2.left" timestamp="1593463516105">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1385" height="292" key="GridCell.Tab.2.left/0.23.1440.877@0.23.1440.877" timestamp="1593422482074" />
-    <state width="1385" height="292" key="GridCell.Tab.2.right" timestamp="1593422482075">
+    <state width="1385" height="292" key="GridCell.Tab.2.left/0.23.1440.877@0.23.1440.877" timestamp="1593463516105" />
+    <state width="1385" height="292" key="GridCell.Tab.2.right" timestamp="1593463516105">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1385" height="292" key="GridCell.Tab.2.right/0.23.1440.877@0.23.1440.877" timestamp="1593422482075" />
-    <state width="1385" height="292" key="GridCell.Tab.3.bottom" timestamp="1593422482076">
+    <state width="1385" height="292" key="GridCell.Tab.2.right/0.23.1440.877@0.23.1440.877" timestamp="1593463516105" />
+    <state width="1385" height="292" key="GridCell.Tab.3.bottom" timestamp="1593463516106">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1385" height="292" key="GridCell.Tab.3.bottom/0.23.1440.877@0.23.1440.877" timestamp="1593422482076" />
-    <state width="1385" height="292" key="GridCell.Tab.3.center" timestamp="1593422482075">
+    <state width="1385" height="292" key="GridCell.Tab.3.bottom/0.23.1440.877@0.23.1440.877" timestamp="1593463516106" />
+    <state width="1385" height="292" key="GridCell.Tab.3.center" timestamp="1593463516106">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1385" height="292" key="GridCell.Tab.3.center/0.23.1440.877@0.23.1440.877" timestamp="1593422482075" />
-    <state width="1385" height="292" key="GridCell.Tab.3.left" timestamp="1593422482075">
+    <state width="1385" height="292" key="GridCell.Tab.3.center/0.23.1440.877@0.23.1440.877" timestamp="1593463516106" />
+    <state width="1385" height="292" key="GridCell.Tab.3.left" timestamp="1593463516106">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1385" height="292" key="GridCell.Tab.3.left/0.23.1440.877@0.23.1440.877" timestamp="1593422482075" />
-    <state width="1385" height="292" key="GridCell.Tab.3.right" timestamp="1593422482075">
+    <state width="1385" height="292" key="GridCell.Tab.3.left/0.23.1440.877@0.23.1440.877" timestamp="1593463516106" />
+    <state width="1385" height="292" key="GridCell.Tab.3.right" timestamp="1593463516106">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1385" height="292" key="GridCell.Tab.3.right/0.23.1440.877@0.23.1440.877" timestamp="1593422482075" />
-    <state width="1385" height="292" key="GridCell.Tab.4.bottom" timestamp="1593422482076">
+    <state width="1385" height="292" key="GridCell.Tab.3.right/0.23.1440.877@0.23.1440.877" timestamp="1593463516106" />
+    <state width="1385" height="292" key="GridCell.Tab.4.bottom" timestamp="1593463516107">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1385" height="292" key="GridCell.Tab.4.bottom/0.23.1440.877@0.23.1440.877" timestamp="1593422482076" />
-    <state width="1385" height="292" key="GridCell.Tab.4.center" timestamp="1593422482076">
+    <state width="1385" height="292" key="GridCell.Tab.4.bottom/0.23.1440.877@0.23.1440.877" timestamp="1593463516107" />
+    <state width="1385" height="292" key="GridCell.Tab.4.center" timestamp="1593463516107">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1385" height="292" key="GridCell.Tab.4.center/0.23.1440.877@0.23.1440.877" timestamp="1593422482076" />
-    <state width="1385" height="292" key="GridCell.Tab.4.left" timestamp="1593422482076">
+    <state width="1385" height="292" key="GridCell.Tab.4.center/0.23.1440.877@0.23.1440.877" timestamp="1593463516107" />
+    <state width="1385" height="292" key="GridCell.Tab.4.left" timestamp="1593463516107">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1385" height="292" key="GridCell.Tab.4.left/0.23.1440.877@0.23.1440.877" timestamp="1593422482076" />
-    <state width="1385" height="292" key="GridCell.Tab.4.right" timestamp="1593422482076">
+    <state width="1385" height="292" key="GridCell.Tab.4.left/0.23.1440.877@0.23.1440.877" timestamp="1593463516107" />
+    <state width="1385" height="292" key="GridCell.Tab.4.right" timestamp="1593463516107">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1385" height="292" key="GridCell.Tab.4.right/0.23.1440.877@0.23.1440.877" timestamp="1593422482076" />
+    <state width="1385" height="292" key="GridCell.Tab.4.right/0.23.1440.877@0.23.1440.877" timestamp="1593463516107" />
     <state x="313" y="200" key="Rider.ProjectTemplateDialog.Size" timestamp="1593369725541">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -390,7 +423,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/ClientApp/src/models/applicant.ts</url>
           <line>8</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
