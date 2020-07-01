@@ -16,27 +16,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f33d3572-27a0-4944-8f7b-8f252b736673" name="Default Changelist" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+    <list default="true" id="f33d3572-27a0-4944-8f7b-8f252b736673" name="Default Changelist" comment="Adding Aurelia.DotNet.dll">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Hahn.ApplicatonProcess.Application/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Hahn.ApplicatonProcess.Application/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/bin/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/bin/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/bin/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/bin/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Data.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Data/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Data.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/bin/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/bin/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/bin/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/bin/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Domain/obj/Debug/netstandard2.1/Hahn.ApplicationProcess.May2020.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/Hahn.ApplicationProcess.May2020.Web.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/Hahn.ApplicationProcess.May2020.Web.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/bin/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Web.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Web.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Web.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/Debug/netcoreapp3.1/Hahn.ApplicationProcess.May2020.Web.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/Hahn.ApplicationProcess.May2020.Web.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/Hahn.ApplicationProcess.May2020.Web.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Hahn.ApplicationProcess.May2020.Web/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,7 +220,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593110805014</updated>
       <workItem from="1593110815404" duration="71105000" />
-      <workItem from="1593592420210" duration="1356000" />
+      <workItem from="1593592420210" duration="2153000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1593422775257</created>
@@ -262,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593430414368</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adding Aurelia.DotNet.dll">
+      <created>1593597296152</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593597296152</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,7 +285,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+    <MESSAGE value="Adding Aurelia.DotNet.dll" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Aurelia.DotNet.dll" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="23" width="628" height="877" key="#Dockerfile" timestamp="1593592480769">
@@ -308,22 +297,22 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="472" height="464" key="DebuggerActiveHint/0.23.1440.877@0.23.1440.877" timestamp="1593326482880" />
-    <state width="1398" height="260" key="GridCell.Tab.0.bottom" timestamp="1593596427464">
+    <state width="1398" height="260" key="GridCell.Tab.0.bottom" timestamp="1593597254860">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="260" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1593596427464" />
-    <state width="1398" height="260" key="GridCell.Tab.0.center" timestamp="1593596427463">
+    <state width="1398" height="260" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1593597254860" />
+    <state width="1398" height="260" key="GridCell.Tab.0.center" timestamp="1593597254860">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="260" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1593596427463" />
-    <state width="1398" height="260" key="GridCell.Tab.0.left" timestamp="1593596427463">
+    <state width="1398" height="260" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1593597254860" />
+    <state width="1398" height="260" key="GridCell.Tab.0.left" timestamp="1593597254859">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="260" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1593596427463" />
-    <state width="1398" height="260" key="GridCell.Tab.0.right" timestamp="1593596427464">
+    <state width="1398" height="260" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1593597254859" />
+    <state width="1398" height="260" key="GridCell.Tab.0.right" timestamp="1593597254860">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="260" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1593596427464" />
+    <state width="1398" height="260" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1593597254860" />
     <state width="1385" height="292" key="GridCell.Tab.1.bottom" timestamp="1593463516104">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -400,6 +389,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="215" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1593420634547" />
+    <state x="320" y="188" key="Vcs.Push.Dialog.v2" timestamp="1593597454846">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="188" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1593597454846" />
     <state width="713" height="438" key="XDebugger.FullValuePopup" timestamp="1593326390858">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -412,6 +405,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="359" y="84" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.877@0.23.1440.877" timestamp="1593369216373" />
+    <state x="508" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593597337823">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="508" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1593597337823" />
     <state x="376" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1593259552149">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
